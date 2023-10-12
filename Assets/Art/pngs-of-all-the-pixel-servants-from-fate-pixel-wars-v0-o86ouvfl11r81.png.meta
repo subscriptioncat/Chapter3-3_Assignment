@@ -1,0 +1,1578 @@
+fileFormatVersion: 2
+guid: 2ac188c215b00ee4bbd8e72ce91f48ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_0
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 633
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dac9c564c7854a428f7b6b5f7f528b5
+      internalID: 2091548590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_1
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 869
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db009df2177ea46b32757af678d621
+      internalID: 1916584312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_2
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 458
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f77e97750bd8e848b13255bc02b1d65
+      internalID: 1471204729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_3
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 646
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bff8a4515a539f4a9036d0d16c5a335
+      internalID: -205442331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_4
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 602
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727cdc04f0debaf4997d8bf7442b36f5
+      internalID: 2083666333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_5
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 749
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431e319c3ee68044cad2c30f4df5df1f
+      internalID: 1628953631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_6
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 597
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca3e8add1166f47887cda3006ba92d
+      internalID: -1022784598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_7
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 664
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a91dd3ca75955744b2e17d8706a469c
+      internalID: 284717281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_8
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0c10fc5dd8c874eaff505a8186ee32
+      internalID: -79964374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_9
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 154
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e096371eafa41764da665e1de1c80bb9
+      internalID: -443938269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_10
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 151
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc186ec126f1d149983e5f4f39c8ee2
+      internalID: -1260986998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_11
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 374
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671f52d186697224a81aa532ae3cd58b
+      internalID: -1524144914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_12
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 367
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fd6fb9e0ff9b443bd79548363bfc2b
+      internalID: -454789580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_13
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 647
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af548409cbb2f654d8e151c09f896e26
+      internalID: -1831136890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_14
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 563
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8858ec47ad70747b11047caea0c839
+      internalID: -1031962639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_15
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 154
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7869b61229546ff4ebffaad628e7b36e
+      internalID: -223346291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 159
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e3eba4fa12b124bb254332368961f4
+      internalID: 886106482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 567
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c6eb7550c56984bb3423450eaca651
+      internalID: -99566812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_18
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 862
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449e648d145b664e842286bb38386bb
+      internalID: 1188327210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_19
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 550
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcab7d613e2112439be8e977ff396d0
+      internalID: 1250088047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_20
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 447
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b56c6e44773e0428bbff13920ada8a
+      internalID: 1595255518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_21
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d50b891936ffd49b6749b45cd8341d
+      internalID: -519842636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_22
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1623d925eccc047883fa12a434c5fb
+      internalID: -1190553954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_23
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 154
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc6bd9c7f7e2d0429de39042a539ca2
+      internalID: -1909759822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_24
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 360
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a27bdb3e5e79458455220f2e5043f
+      internalID: 551646492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_25
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 553
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fba6004e9d2e494283a35b02975ade1
+      internalID: 499292642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_26
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 79
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc7180f867ba894c9b2a7d74eae7592
+      internalID: -1549045093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_27
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 160
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbf100d175dcac4aa75d446dafb8b60
+      internalID: 465438066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_28
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681f052b61e5c2442982473615e9b9e6
+      internalID: -508253645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_29
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 591
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a92b26ca62b284db41baf3487c3a05
+      internalID: -1137512304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_30
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 521
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2125ec55985c9014587214fb6cdc1aa6
+      internalID: -810818340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_31
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 475
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6160b2370fb374a8dd94de1f016bdb
+      internalID: -1483532350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_32
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 510
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23fa7f0715b3d34fbe0da8bfafdaa54
+      internalID: 403691146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_33
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 660
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7179dd814a167845b6165c0904d3fae
+      internalID: 436347775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_34
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 814
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4379c1ef8a89c478a8d8920b7eac59
+      internalID: 2130418441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_35
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 810
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99217e457052ba4fb46ef2bf4335b1b
+      internalID: 1555621394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_36
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 813
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd6efa68af95384f91074e7ee9dd414
+      internalID: -1578082578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_37
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 0
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eae390cd06f6c542abf9ac401c84e46
+      internalID: -1304573572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_38
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 73
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640526c5d8192a0409c677d0730db34a
+      internalID: 1709871740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_39
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 153
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c06e481920b764585044880dfcadee
+      internalID: -885125974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_40
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 450
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabb469656c94c7449c59e74ac894efc
+      internalID: 566002498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_41
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 443
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee150f2da42eec49bfc7e5cb8a2d69d
+      internalID: 1999700586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_42
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 447
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172eb460d231162419e9214f65e6c5b4
+      internalID: -1506507109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_43
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 401
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6a082f52c27da48acc03640cf1d83b
+      internalID: -709696006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_44
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 391
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a85479ba0d3bd249ac7ad60fd95fa5b
+      internalID: 1170172104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_45
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 633
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c673e8c47a80da840ab642618613b27c
+      internalID: 2126431963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_46
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 908
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0addc185a9eb89a48a8f1d3079bd2d92
+      internalID: -1404212603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_47
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 728
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034bd4525d967b14e912052ee4777ae3
+      internalID: -1821150019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_48
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 627
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dca9a912727aa44db880d1f622ddd1f
+      internalID: 1724492989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_49
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 481
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293860593a213ee44830cb3444efd133
+      internalID: 218178233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_50
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 879
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7812a701154e6ed4eb89c52e06530702
+      internalID: -745949332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_51
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 672
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e124ad9a8919748b3260aa9074bf44
+      internalID: 2069279714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_52
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 596
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc2c89e19388dd4d9b17c97d67b3bc9
+      internalID: -681377434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_53
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 736
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c665f6e352ce04c44a4d8c2681c13e24
+      internalID: -470608715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_54
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 301
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3e668100c5674798c055a43ca1eb3
+      internalID: 705679416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_55
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 564
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9d803d6f9e7d4d8d0cf9a525ce0a5
+      internalID: 150729752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_56
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 602
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9fe19b132a8ed409047416edddec02
+      internalID: -166015195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_57
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 601
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4285cc6c3f5ed841962be1089f08385
+      internalID: 1199572886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_58
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e18283885cb44ba5a78103cdd8741
+      internalID: -1197310933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_59
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 883
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ccab228818a544f9ddf01ca9f1c8ad
+      internalID: -1004240886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_60
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 930
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3463b62bcda8e4f9bfd11598711b63
+      internalID: -1629985899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 575
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9225553b4f9cdc14b8e85fe1d265d940
+      internalID: -2121176445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 650
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dde771ee614ee45a59996063111310
+      internalID: -508625372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_0: 2091548590
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_1: 1916584312
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_10: -1260986998
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_11: -1524144914
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_12: -454789580
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_13: -1831136890
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_14: -1031962639
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_15: -223346291
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_16: 886106482
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_17: -99566812
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_18: 1188327210
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_19: 1250088047
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_2: 1471204729
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_20: 1595255518
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_21: -519842636
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_22: -1190553954
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_23: -1909759822
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_24: 551646492
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_25: 499292642
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_26: -1549045093
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_27: 465438066
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_28: -508253645
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_29: -1137512304
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_3: -205442331
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_30: -810818340
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_31: -1483532350
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_32: 403691146
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_33: 436347775
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_34: 2130418441
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_35: 1555621394
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_36: -1578082578
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_37: -1304573572
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_38: 1709871740
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_39: -885125974
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_4: 2083666333
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_40: 566002498
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_41: 1999700586
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_42: -1506507109
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_43: -709696006
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_44: 1170172104
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_45: 2126431963
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_46: -1404212603
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_47: -1821150019
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_48: 1724492989
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_49: 218178233
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_5: 1628953631
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_50: -745949332
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_51: 2069279714
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_52: -681377434
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_53: -470608715
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_54: 705679416
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_55: 150729752
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_56: -166015195
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_57: 1199572886
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_58: -1197310933
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_59: -1004240886
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_6: -1022784598
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_60: -1629985899
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_61: -2121176445
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_62: -508625372
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_7: 284717281
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_8: -79964374
+      pngs-of-all-the-pixel-servants-from-fate-pixel-wars-v0-o86ouvfl11r81_9: -443938269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
